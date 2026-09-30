@@ -1,9 +1,3 @@
-<!-- STEP 1: TYPING HEADER EFFECT -->
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
----
 
 ### 01 // Overview
 
